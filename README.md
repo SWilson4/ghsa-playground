@@ -1,2 +1,2 @@
 # ghsa-playground
-Testing out the GitHub Security Advisory workflow
+Testing out the GitHub Security Advisory workflow.
